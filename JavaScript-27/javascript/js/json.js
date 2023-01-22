@@ -1,0 +1,22 @@
+let tblmenu =  [ 
+    {
+    "idmenu" : 1,
+    "idkategori" : 1,
+    "menu" : "Anggur",
+    "harga" : 9000,
+    "warna" : ["merah", "hijau", "ungu"],
+    "stok" : true,
+    "keterangan" : null
+    },
+    {
+        "idmenu" : 2,
+        "idkategori" : 1,
+        "menu" : "Jeruk",
+        "harga" : 5000,
+        "warna" : ["kuning", "oranye"],
+        "stok" : false,
+        "keterangan" : null
+    }
+]
+
+console.log(tblmenu[0].menu);
