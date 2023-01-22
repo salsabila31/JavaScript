@@ -1,0 +1,29 @@
+[ 
+    {
+    "idmenu" : 1,
+    "idkategori" : 1,
+    "menu" : "Anggur",
+    "harga" : 9000,
+    "warna" : ["merah", "hijau", "ungu"],
+    "stok" : true,
+    "keterangan" : null
+    },
+    {
+        "idmenu" : 2,
+        "idkategori" : 1,
+        "menu" : "Jeruk",
+        "harga" : 5000,
+        "warna" : ["kuning", "oranye"],
+        "stok" : false,
+        "keterangan" : null
+    },
+    {
+        "idmenu" : 3,
+        "idkategori" : 1,
+        "menu" : "Semangka",
+        "harga" : 10000,
+        "warna" : ["kuning", "merah"],
+        "stok" : false,
+        "keterangan" : null
+    }
+]
